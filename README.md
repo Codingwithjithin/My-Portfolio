@@ -1,4 +1,4 @@
-# Fawaz V - Personal Portfolio
+# Jithin George- Personal Portfolio
 
 A premium, interactive personal portfolio website built with modern web technologies to showcase my projects, technical skills, and professional journey.
 
@@ -47,7 +47,7 @@ A premium, interactive personal portfolio website built with modern web technolo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/fawazv/personal_porfolio.git
+   git clone https://github.com/Codingwithjithin/personal_porfolio.git
    cd personal_porfolio
    ```
 
@@ -81,7 +81,7 @@ A premium, interactive personal portfolio website built with modern web technolo
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/fawazv/personal_porfolio/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Codingwithjithin/personal_porfolio/issues).
 
 ## 📄 License
 
