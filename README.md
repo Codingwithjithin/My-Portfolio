@@ -1,4 +1,4 @@
-# Jithin George- Personal Portfolio
+# Jithin George - Personal Portfolio
 
 A premium, interactive personal portfolio website built with modern web technologies to showcase my projects, technical skills, and professional journey.
 
